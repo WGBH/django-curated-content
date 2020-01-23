@@ -21,6 +21,7 @@ Quick start
 How to use it
 -------------
 
+
 This creates two new models:
 
 * Curated Content Block
